@@ -358,7 +358,7 @@
     "bower.json"
   ],
   "browser": {
-    "debug": "./lib/browser/debug.js",
+    "debug": "./node_modules/debug/src/browser.js",
     "events": "./lib/browser/events.js",
     "tty": "./lib/browser/tty.js",
     "./index.js": "./browser-entry.js",
